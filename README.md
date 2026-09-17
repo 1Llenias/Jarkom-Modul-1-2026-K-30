@@ -1,5 +1,5 @@
 # LAPORAN RESMI PRAKTIKUM JARINGAN KOMPUTER
-## Modul 1 — Kelas K-30 (2026)
+## Modul 1 — K-30 (2026)
 
 | Nama | NRP |
 | --- | --- |
